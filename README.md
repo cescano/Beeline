@@ -13,12 +13,6 @@
 
 ---
 
-## 🐝 What is Beelining?
-
-**Beelining** means skipping the traditional fixed route in favor of a faster, more direct path to reach a rider. Like a bee flying straight to a flower, Beeline helps buses get to people quickly and intelligently.
-
----
-
 ## 🧪 Features (In Progress)
 
 - [x] User location button for "I'm Here" at stops
